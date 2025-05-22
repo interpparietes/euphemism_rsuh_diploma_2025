@@ -13,5 +13,5 @@
 - **annotated_data_postprocessing.ipynb** — блокнот для постобработки размеченных данных  
 - **euphemism_russian_dataset_full.csv** — датасет
 - **baseline.ipynb** - блокнот с кодом для разработки бейзлайна
-- **EUREKA_experiment.ipynb** - блокнот с кодом эксперимента с моделью EUREKA
+- **EUREKA_experiment.ipynb** - блокнот с кодом эксперимента с моделью EUREKA (https://github.com/sedrickkeh/EUREKA)
 - **llm_experiment.ipynb** - блокнот с кодом эксперимента с LLM
