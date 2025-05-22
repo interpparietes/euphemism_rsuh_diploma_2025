@@ -1,5 +1,4 @@
 # euphemism_rsuh_diploma_2025
-Diploma materials RSUH 2025_Dataset and Model for Euphemism Detection in Russian
 
 В данном репозитории хранятся материалы для дипломной работы по теме "Создание датасета и разработка модели для детекции эвфемизмов на данных русского языка".
 
