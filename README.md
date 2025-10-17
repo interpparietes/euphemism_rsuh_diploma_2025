@@ -10,7 +10,7 @@ RSUH, 2025
 - **Euphemism_Labeler.py** — markup application code
 - **_Instruction.pdf** — instruction for annotators  
 - **raw_data_preprocessing.ipynb** — code for data preprocessing before markup  
-- **annotated_data_postprocessing.ipynb** — codefor post-processing labeled data  
+- **annotated_data_postprocessing.ipynb** — code for post-processing labeled data  
 - **euphemism_russian_dataset_full.csv** — dataset
 - **baseline.ipynb** - code for developing a baseline
 - **EUREKA_experiment.ipynb** - experiment with the EUREKA model (https://github.com/sedrickkeh/EUREKA)
